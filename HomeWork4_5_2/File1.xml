@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tabel arr="12">
+	<semestr number="1">
+		<subject name="Math" mark="12"></subject>
+		<subject name="Biology" mark="12"></subject>
+		<subject name="Georaphy" mark="12"></subject>
+	</semestr>
+
+	<semestr number="2">
+		<subject name="Math" mark="5"></subject>
+		<subject name="Biology" mark="12"></subject>
+		<subject name="Georaphy" mark="12"></subject>
+	</semestr>
+
+	<additionalNotes>
+		<note>bla bla</note>
+	</additionalNotes>
+</tabel>
+
